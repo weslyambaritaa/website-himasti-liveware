@@ -128,3 +128,5 @@ document.addEventListener("DOMContentLoaded", function () {
   );
   chart_pie_monochrome.render();
 });
+
+//ridho
